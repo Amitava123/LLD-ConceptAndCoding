@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26c8534a-7a28-4935-b47b-1f2b4897b795" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD-ConceptAndCoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/With/Macbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/Macbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WiredKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WiredMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WirelessKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WirelessMouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/With/ResturantCook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/With/ResturantHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/With/ResturantWaiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/ResturantEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/BikeWithEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/MotorCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/With/DBInvoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/With/FileInvoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/With/InvoceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/Without/InvoiceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/Without/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/InvoiceDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/InvoicePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/Without/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/Without/Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/Without/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2oO6Vv3SkHA0uCTRWS6fp5kazBM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mitra/OneDrive/Documents/Projects/LLD-ConceptAndCoding/src/SOLID_Principles/SRP/With"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mitra\OneDrive\Documents\Projects\LLD-ConceptAndCoding\src\SOLID_Principles\SRP\With" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mitra\OneDrive\Documents\Projects\LLD-ConceptAndCoding\src\SOLID_Principles\SRP" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SOLID_Principles.OpenClose.Without" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c8534a-7a28-4935-b47b-1f2b4897b795" name="Changes" comment="" />
+      <created>1730728304184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730728304184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
