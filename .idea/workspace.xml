@@ -4,56 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26c8534a-7a28-4935-b47b-1f2b4897b795" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD-ConceptAndCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/With/Macbook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/Macbook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WiredKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WiredMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WirelessKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/DIP/Without/WirelessMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/With/ResturantCook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/With/ResturantHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/With/ResturantWaiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/ResturantEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/ISP/Without/Waiter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/BikeWithEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/With/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/MotorCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/Liskov/Without/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/With/DBInvoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/With/FileInvoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/With/InvoceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/Without/InvoiceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/OpenClose/Without/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/InvoiceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/InvoicePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/With/Marker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/Without/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/Without/Marker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID_Principles/SRP/Without/README.md" afterDir="false" />
+    <list default="true" id="26c8534a-7a28-4935-b47b-1f2b4897b795" name="Changes" comment="Add Files for Solid Principle Understanding">
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Base/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Base/FarmHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Base/Margarita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Base/VegDelight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Toppings/BaseToppings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Toppings/ExtraCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Toppings/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/AbstractFactory/Factory/LuxuryVehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/AbstractFactory/Factory/OrdinaryVehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/AbstractFactory/Factory/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/AbstractFactory/Vehicle/LuxuryVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/AbstractFactory/Vehicle/OrdinaryVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/AbstractFactory/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Factory/Shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Factory/Shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Factory/Shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Factory/Shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Example/Observable/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Example/Observable/ObservableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Example/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Example/Observer/ObserverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/NotifyMe/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/NotifyMe/Observable/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/NotifyMe/Observable/iPhoneObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/NotifyMe/Observer/EmailObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/NotifyMe/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/NotifyMe/Observer/SMSObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/With/DriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/With/NormalDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/With/PassengerVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/With/SpecialDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/With/SportsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/With/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/Without/OffRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/Without/PassengerVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/Without/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/Without/SportsVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/Without/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +65,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -82,12 +83,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DesignPatterns.FactoryDesignPattern.Factory.Main.executor": "Run",
+    "Application.DriverClass.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mitra/OneDrive/Documents/Projects/LLD-ConceptAndCoding/src/SOLID_Principles/SRP/With"
+    "last_opened_file_path": "C:/Users/mitra/OneDrive/Documents/Projects/LLD-ConceptAndCoding/src/SOLID_Principles/SRP/With",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "vcs.log"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,6 +107,68 @@
       <recent name="SOLID_Principles.OpenClose.Without" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.DesignPatterns.FactoryDesignPattern.AbstractFactory.Main">
+    <configuration name="DesignPatterns.FactoryDesignPattern.AbstractFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.FactoryDesignPattern.AbstractFactory.Main" />
+      <module name="LLD-ConceptAndCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.FactoryDesignPattern.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignPatterns.FactoryDesignPattern.Factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.FactoryDesignPattern.Factory.Main" />
+      <module name="LLD-ConceptAndCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.FactoryDesignPattern.Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.ObserverDesignPattern.NotifyMe.DriverClass" />
+      <module name="LLD-ConceptAndCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.ObserverDesignPattern.NotifyMe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.DecoratorDesignPattern.Main" />
+      <module name="LLD-ConceptAndCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPatterns.DecoratorDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesignPatterns.FactoryDesignPattern.AbstractFactory.Main" />
+        <item itemvalue="Application.DesignPatterns.FactoryDesignPattern.Factory.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DriverClass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -110,6 +178,15 @@
       <option name="presentableId" value="Default" />
       <updated>1730728304184</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Files for Solid Principle Understanding">
+      <option name="closed" value="true" />
+      <created>1730733228292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730733228292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +199,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Files for Solid Principle Understanding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Files for Solid Principle Understanding" />
   </component>
 </project>
